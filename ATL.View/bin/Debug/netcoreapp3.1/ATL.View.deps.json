@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ATL.View/1.0.0": {
+        "dependencies": {
+          "ATL.Model": "1.0.0"
+        },
+        "runtime": {
+          "ATL.View.dll": {}
+        }
+      },
+      "ATL.Model/1.0.0": {
+        "runtime": {
+          "ATL.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATL.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ATL.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

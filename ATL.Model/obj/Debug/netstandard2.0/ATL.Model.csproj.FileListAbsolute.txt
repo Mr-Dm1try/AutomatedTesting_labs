@@ -1,0 +1,8 @@
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\bin\Debug\netstandard2.0\ATL.Model.deps.json
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\bin\Debug\netstandard2.0\ATL.Model.dll
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\bin\Debug\netstandard2.0\ATL.Model.pdb
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\obj\Debug\netstandard2.0\ATL.Model.csprojAssemblyReference.cache
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\obj\Debug\netstandard2.0\ATL.Model.AssemblyInfoInputs.cache
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\obj\Debug\netstandard2.0\ATL.Model.AssemblyInfo.cs
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\obj\Debug\netstandard2.0\ATL.Model.dll
+C:\Users\mrdmi\Google Диск\Учеба\Тестирование\AutomatedTesting_labs\AutomatedTesting_labs\ATL.Model\obj\Debug\netstandard2.0\ATL.Model.pdb
