@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\AutomatedTesting_labs\\ATL.Model\\ATL.Model.csproj",
+      "projectUniqueName": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model\\ATL.Model.csproj",
       "projectName": "ATL.Model",
-      "projectPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\AutomatedTesting_labs\\ATL.Model\\ATL.Model.csproj",
+      "projectPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model\\ATL.Model.csproj",
       "packagesPath": "C:\\Users\\mrdmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\AutomatedTesting_labs\\ATL.Model\\obj\\",
+      "outputPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

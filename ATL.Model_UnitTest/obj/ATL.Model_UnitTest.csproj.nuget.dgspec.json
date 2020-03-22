@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.View\\ATL.View.csproj": {}
+    "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model_UnitTest\\ATL.Model_UnitTest.csproj": {}
   },
   "projects": {
     "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model\\ATL.Model.csproj": {
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.View\\ATL.View.csproj": {
+    "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model_UnitTest\\ATL.Model_UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.View\\ATL.View.csproj",
-        "projectName": "ATL.View",
-        "projectPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.View\\ATL.View.csproj",
+        "projectUniqueName": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model_UnitTest\\ATL.Model_UnitTest.csproj",
+        "projectName": "ATL.Model_UnitTest",
+        "projectPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model_UnitTest\\ATL.Model_UnitTest.csproj",
         "packagesPath": "C:\\Users\\mrdmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.View\\obj\\",
+        "outputPath": "C:\\Users\\mrdmi\\Google Диск\\Учеба\\Тестирование\\AutomatedTesting_labs\\ATL.Model_UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,6 +102,32 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -115,9 +141,6 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WPF": {
-              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
